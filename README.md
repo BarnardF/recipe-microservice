@@ -19,7 +19,7 @@ A Flask-based microservice that finds recipes based on available ingredients. Co
 - Local database with 40+ curated recipes across multiple cuisines
 - External API integration with Spoonacular for thousands more recipes
 
-**Intelligent Matching Algorithm:**
+**Matching Algorithm:**
 - Percentage-based scoring (not just raw ingredient counts)
 - Adaptive filtering: ≤3 ingredients returns top 5 matches, >3 ingredients requires ≥40% match
 - Normalized response format for consistent results
@@ -155,6 +155,7 @@ Personal learning project - feel free to reference or adapt for educational purp
 
 
 <!--**Project Status:** Core functionality complete. Taking a break before adding mobile integration and advanced features.-->
+
 
 
 
