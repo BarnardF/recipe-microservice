@@ -76,6 +76,5 @@ If I built this again, I would:
 - Start with a clearer architecture plan
 - Document my own learning as I went
 
----
 
-[GitHub Link]
+
